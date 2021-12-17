@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    tools:context=".GridLayoutActivity">
+
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="A" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="B" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="C" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="D" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="E" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="F" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="G" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text8"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="H" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="I" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="J" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="K" />
+    <TextView
+        android:layout_margin="15dp"
+        android:textSize="40dp"
+        android:id="@+id/Text12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left|top"
+        android:text="L" />
+</GridLayout>
